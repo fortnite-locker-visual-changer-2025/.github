@@ -57,20 +57,17 @@ Customize your Fortnite locker like never before. This tool allows you to previe
 ### 🖼 Preview
 
 **1. Locker UI Overview**  
-![Locker UI](https://www.galaxyswapperv3.com/images/galaxy-swapper-v3-interface.png)
+![Locker UI](https://ar.toneden.io/21741460/tracks/temp6479?cache=1563195143096)
 *A clean and intuitive interface for locker management*
 
 **2. Skin Combo Preview**  
-![Skin Preview](https://www.saturnswapper.com/images/saturn-skin-preview.png)
+![Skin Preview](https://skinswapper.net/images/persone.png)
 *Preview your favorite skins and gear together*
 
 **3. Emote Showcase Panel**  
-![Emote Panel](https://lean-swapper.com/images/lean-swapper-dark-mode.png)
+![Emote Panel](https://skinswapper.net/images/bus.png)
 *Watch your emotes and dances in action before selecting them*
 
-**4. Dark Mode Layout**  
-![Dark Mode](https://www.fortnitecreativehq.com/wp-content/uploads/2023/08/locker-preview-map.png)
-*Enjoy a modern, eye-friendly dark mode option*
 
 ---
 
